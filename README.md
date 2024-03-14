@@ -1,8 +1,4 @@
-The first rule is, **do not** fork this repo, clone it or use it as template.
-
-The second rule is, **do not** fork this repo, clone it or use it as template.
-
-Good luck! 🔥
+Please **do not** fork this repo, clone it or use it as template.
 
 # Weglot JS Assessment
 
@@ -60,10 +56,6 @@ Le premier jour il n'y a qu'un seul créneau indisponible de 08:45 à 12:59. En
 faisant par exemple commencer la réunion à 13:00 et en la terminant à 13:59, elle
 n'aura aucune intersection avec les créneaux indisponibles.
 
-### Environnement
-
-Vous travaillez avec Node.js v12.18.4
-
 ### Tests
 
 Créez un test avec une librairie adéquate en prenant les _inputX.txt_ en entrée
@@ -80,5 +72,5 @@ envoyez nous le lien de ce repo, avec l'accès si nécessaire.
 1. Créez une config CI pour exécuter la commande test sur votre repo à chaque
    modification.
 
-1. Vous préférez avoir un code standardisé ? Nous aussi. Ajoutez votre
+2. Vous préférez avoir un code standardisé ? Nous aussi. Ajoutez votre
    config préférée.
