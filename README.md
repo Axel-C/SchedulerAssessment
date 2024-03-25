@@ -67,6 +67,11 @@ dans les _outputX.txt_ dans le dossier data.
 Envoyez votre solution sur un repo git accessible sur Github ou Gitlab puis
 envoyez nous le lien de ce repo, avec l'accès si nécessaire.
 
+### Conseils
+
+Simple et concis = efficace. Un code court et simple à lire, rien de mieux pour 
+le maintenir, non ?
+
 ### Bonus
 
 1. Créez une config CI pour exécuter la commande test sur votre repo à chaque
