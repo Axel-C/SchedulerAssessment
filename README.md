@@ -1,6 +1,28 @@
-Please **do not** fork this repo, clone it or use it as template.
 
-# Weglot JS Assessment
+
+# Scheduler Assessment
+
+### Installation
+
+```bash
+$ npm install
+```
+
+### Testing
+
+```bash  
+$ npm test
+```
+To run only end-to-end tests
+```bash
+$ npm test:e2e
+```
+
+### Linting
+
+```bash  
+$ npm lint
+```
 
 ## Technical skills
 
