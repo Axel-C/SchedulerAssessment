@@ -5,23 +5,23 @@
 ### Installation
 
 ```bash
-$ npm install
+npm install
 ```
 
 ### Testing
 
 ```bash  
-$ npm test
+npm test
 ```
 To run only end-to-end tests
 ```bash
-$ npm test:e2e
+npm test:e2e
 ```
 
 ### Linting
 
 ```bash  
-$ npm lint
+npm lint
 ```
 
 ## Technical skills
